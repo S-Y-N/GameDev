@@ -1,0 +1,14 @@
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.csproj.AssemblyReference.cache
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.AssemblyInfoInputs.cache
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.AssemblyInfo.cs
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.csproj.CoreCompileInputs.cache
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.exe
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.deps.json
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.runtimeconfig.json
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.runtimeconfig.dev.json
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.dll
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\bin\Debug\netcoreapp3.1\GameSpaceInvader.pdb
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.dll
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.pdb
+C:\Users\duost\source\repos\GameSpaceInvader\GameSpaceInvader\obj\Debug\netcoreapp3.1\GameSpaceInvader.genruntimeconfig.cache
