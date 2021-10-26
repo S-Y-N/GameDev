@@ -1,0 +1,13 @@
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.exe
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.deps.json
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.runtimeconfig.json
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.runtimeconfig.dev.json
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.dll
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\bin\Debug\netcoreapp3.1\StreetRacer.pdb
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.AssemblyInfoInputs.cache
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.AssemblyInfo.cs
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.csproj.CoreCompileInputs.cache
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.dll
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.pdb
+C:\Users\duost\source\repos\StreetRacer\StreetRacer\obj\Debug\netcoreapp3.1\StreetRacer.genruntimeconfig.cache
